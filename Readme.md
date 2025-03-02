@@ -74,3 +74,7 @@ Los primeros resultados obtenidos indican que **los modelos aún no generan cons
   - Ajustar la tasa de aprendizaje (`learning_rate`).
   - Experimentar con distintas estrategias de generación, como `beam search` o `top-k sampling`.
 
+El archivo JSON `sql_text` se encuentra disponible en **Google Drive** debido a su tamaño.  
+Puedes acceder a él a través del siguiente enlace:  
+
+🔗 [Descargar JSON `sql_text`](https://drive.google.com/drive/folders/1qiFGprasKba-LRbovRokvgHHIyPrOiKY?usp=sharing)
