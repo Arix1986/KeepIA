@@ -60,7 +60,7 @@ Este cuaderno contiene la implementación principal del proyecto. Aquí se reali
 
 ###  Conclusiones y Próximos Pasos
 
-Los primeros resultados obtenidos indican que **los modelos aún no generan consultas SQL con la precisión deseada**. Se identificaron algunas áreas de mejora:
+Los primeros resultados obtenidos indican que **los modelos aún no generan consultas SQL **. Se identificaron algunas áreas de mejora:
 
 - **Uso de datasets más especializados**  
   - Implementar **Spider**, un dataset ampliamente utilizado para entrenamiento en Text-to-SQL.
